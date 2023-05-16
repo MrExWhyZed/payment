@@ -2,7 +2,10 @@
 header{
 	width: 100vw;
 	min-height: 100vh;
-	background: #34495e;
+	background-image: url(https://loveincorporated.blob.core.windows.net/contentimages/fullsize/0de2bc42-691d-4787-bf38-865b23a84902-snow-road-cairngorms-2.jpg);
+	background: url(https://loveincorporated.blob.core.windows.net/contentimages/fullsize/0de2bc42-691d-4787-bf38-865b23a84902-snow-road-cairngorms-2.jpg);
+	background-repeat: no-repeat;
+        background-size: cover;
 	font-size: 1.2rem;
 	display: flex;
 	justify-content: center;
